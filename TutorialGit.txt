@@ -1,0 +1,6 @@
+Configurasi Git : 
+1. cd folder/, ls
+2. git config --global user.name "wisudawati"
+3. git config --global user.email jeneptewisudawati@gmail.com
+4. git clone https://github.com/wisudawati/FirstReactProject.git ---> masuk ke folder github cek ls 
+
