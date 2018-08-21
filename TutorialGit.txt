@@ -3,4 +3,9 @@ Configurasi Git :
 2. git config --global user.name "wisudawati"
 3. git config --global user.email jeneptewisudawati@gmail.com
 4. git clone https://github.com/wisudawati/FirstReactProject.git ---> masuk ke folder github cek ls 
+5. git add TutorialGit.txt --> add files 
+6. git status --> status modify
+7. git commit -m "first commit"--> transfer file ke github account 
+8. git push -u origin master --> original master push in github account 
+
 
