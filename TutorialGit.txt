@@ -9,3 +9,8 @@ Configurasi Git :
 8. git push -u origin master --> original master push in github account 
 
 
+when modify file 
+
+6. git status --> status modify
+7. git commit -m "second commit" TutorialGit.txt --> transfer file ke github account 
+8. git push -u origin master --> original master push in github account 
